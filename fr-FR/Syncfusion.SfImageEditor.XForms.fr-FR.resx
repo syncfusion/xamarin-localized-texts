@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Reset" xml:space="preserve">
+        <value>Réinitialiser</value>
+     </data>
+    <data name="Save" xml:space="preserve">
+        <value>sauvegarder</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        <value>Annuler</value>
+    </data>
+    <data name="Saving" xml:space="preserve">
+        <value>Économie</value>
+    </data>
+    <data name="Outline" xml:space="preserve">
+        <value>Contour</value>
+    </data>
+    <data name="Done" xml:space="preserve">
+         <value>Terminé</value>
+    </data>
+    <data name="OK" xml:space="preserve">
+         <value>D'accord</value>
+    </data>
+    <data name="EditText" xml:space="preserve">
+        <value>Éditer le texte</value>
+    </data>
+    <data name="Fill" xml:space="preserve">
+        <value>Remplir</value>
+    </data>
+    <data name="Crop" xml:space="preserve">
+        <value>Surgir</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>Gratuit</value>
+    </data>
+    <data name="Original" xml:space="preserve">
+        <value>Original</value>
+    </data>
+    <data name="Square" xml:space="preserve">
+        <value>Carré</value>
+    </data>
+    <data name="EnterText" xml:space="preserve">
+        <value>Entrez du texte</value>
+    </data>
+     <data name="Add" xml:space="preserve">
+        <value>Ajouter</value>
+    </data>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+</root>
