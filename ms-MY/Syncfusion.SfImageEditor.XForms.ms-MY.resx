@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Reset" xml:space="preserve">
+        <value>Tetapkan semula</value>
+     </data>
+    <data name="Save" xml:space="preserve">
+        <value>Simpan</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        <value>Batalkan</value>
+    </data>
+    <data name="Saving" xml:space="preserve">
+        <value>Penjimatan</value>
+    </data>
+    <data name="Outline" xml:space="preserve">
+        <value>Garis Besar</value>
+    </data>
+    <data name="Done" xml:space="preserve">
+         <value>Selesai</value>
+    </data>
+    <data name="OK" xml:space="preserve">
+         <value>okey</value>
+    </data>
+    <data name="EditText" xml:space="preserve">
+        <value>Edit Teks</value>
+    </data>
+    <data name="Fill" xml:space="preserve">
+        <value>Isi</value>
+    </data>
+    <data name="Crop" xml:space="preserve">
+        <value>Potong</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>Percuma</value>
+    </data>
+    <data name="Original" xml:space="preserve">
+        <value>Asal</value>
+    </data>
+    <data name="Square" xml:space="preserve">
+        <value>Square</value>
+    </data>
+    <data name="EnterText" xml:space="preserve">
+        <value>Masukkan Teks</value>
+    </data>
+     <data name="Add" xml:space="preserve">
+        <value>Tambah</value>
+    </data>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+</root>

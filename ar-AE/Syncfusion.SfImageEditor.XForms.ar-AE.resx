@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Reset" xml:space="preserve">
+        <value>إعادة تعيين</value>
+     </data>
+    <data name="Save" xml:space="preserve">
+        <value>حفظ</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        <value>إلغاء</value>
+    </data>
+    <data name="Saving" xml:space="preserve">
+        <value>إنقاذ</value>
+    </data>
+    <data name="Outline" xml:space="preserve">
+        <value>الخطوط العريضة</value>
+    </data>
+    <data name="Done" xml:space="preserve">
+         <value>فعله</value>
+    </data>
+    <data name="OK" xml:space="preserve">
+         <value>حسنا</value>
+    </data>
+    <data name="EditText" xml:space="preserve">
+        <value>تحرير النص</value>
+    </data>
+    <data name="Fill" xml:space="preserve">
+        <value>ملء</value>
+    </data>
+    <data name="Crop" xml:space="preserve">
+        <value>ا & قتصاص</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>حر</value>
+    </data>
+    <data name="Original" xml:space="preserve">
+        <value>أصلي</value>
+    </data>
+    <data name="Square" xml:space="preserve">
+        <value>ميدان</value>
+    </data>
+    <data name="EnterText" xml:space="preserve">
+        <value>أدخل النص</value>
+    </data>
+     <data name="Add" xml:space="preserve">
+        <value>إضافة</value>
+    </data>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+</root>
