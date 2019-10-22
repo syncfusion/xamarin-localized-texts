@@ -186,4 +186,10 @@
   <data name="SfPdfViewerPlaceHolderText" xml:space="preserve">
     <value>Tapez votre texte</value>
   </data>
+ <data name="SfPdfViewerContinuousPage" xml:space="preserve">
+    <value>Pages continues</value>
+  </data>
+  <data name="SfPdfViewerPageByPage" xml:space="preserve">
+    <value>Page par page</value>
+  </data>
 </root>

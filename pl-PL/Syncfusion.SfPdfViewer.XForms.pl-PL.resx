@@ -180,4 +180,10 @@
   <data name="SfPdfViewerHyperlinkCancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
+  <data name="SfPdfViewerPageByPage" xml:space="preserve">
+    <value>Strona po stronie</value>
+  </data>
+  <data name="SfPdfViewerContinuousPage" xml:space="preserve">
+    <value>Ciągłe strony</value>
+  </data>
 </root>

@@ -180,4 +180,10 @@
   <data name="SfPdfViewerUndo" xml:space="preserve">
     <value>Undo</value>
   </data>
+  <data name="SfPdfViewerPageByPage" xml:space="preserve">
+    <value>Halaman mengikut halaman</value>
+  </data>
+  <data name="SfPdfViewerContinuousPage" xml:space="preserve">
+    <value>Halaman berterusan</value>
+  </data>
 </root>

@@ -180,4 +180,10 @@
   <data name="SfPdfViewerHyperlinkCancel" xml:space="preserve">
     <value>לְבַטֵל</value>
   </data>
+  <data name="SfPdfViewerContinuousPage" xml:space="preserve">
+    <value>עמודים רציפים</value>
+  </data>
+  <data name="SfPdfViewerPageByPage" xml:space="preserve">
+    <value>עמוד אחר עמוד</value>
+  </data>
 </root>

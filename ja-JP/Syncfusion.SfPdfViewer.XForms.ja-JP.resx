@@ -180,4 +180,10 @@
   <data name="SfPdfViewerHyperlinkCancel" xml:space="preserve">
     <value>キャンセル</value>
   </data>
+  <data name="SfPdfViewerPageByPage" xml:space="preserve">
+    <value>ページごと</value>
+  </data>
+  <data name="SfPdfViewerContinuousPage" xml:space="preserve">
+    <value>連続ページ</value>
+  </data>
 </root>
