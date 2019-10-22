@@ -117,10 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllDay" xml:space="preserve">
-    <value>Cả ngày</value>
-  </data>
   <data name="NoEvents" xml:space="preserve">
     <value>Không có sự kiện</value>
+  </data>
+  <data name="NoSelectedDate" xml:space="preserve">
+    <value>Không
+Ngày đã chọn</value>
   </data>
 </root>

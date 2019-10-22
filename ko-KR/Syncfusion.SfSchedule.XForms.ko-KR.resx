@@ -117,10 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllDay" xml:space="preserve">
-    <value>하루 종일</value>
-  </data>
   <data name="NoEvents" xml:space="preserve">
-    <value>이벤트 없음</value>
+    <value>이벤트가 없습니다</value>
+  </data>
+  <data name="NoSelectedDate" xml:space="preserve">
+    <value>선택된 날짜가 없습니다</value>
   </data>
 </root>
