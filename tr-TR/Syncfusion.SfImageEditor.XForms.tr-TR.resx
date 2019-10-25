@@ -45,6 +45,24 @@
      <data name="Add" xml:space="preserve">
         <value>Eklemek</value>
     </data>
+	<data name="Hue" xml:space="preserve">
+        <value>renk</value>
+    </data>
+    <data name="Saturation" xml:space="preserve">
+        <value>Doyma</value>
+    </data>
+	<data name="Contrast" xml:space="preserve">
+        <value>Kontrast</value>
+    </data>
+    <data name="Blur" xml:space="preserve">
+        <value>bulanıklık</value>
+    </data>
+	 <data name="Brightness" xml:space="preserve">
+        <value>Parlaklık</value>
+    </data>
+    <data name="Sharpen" xml:space="preserve">
+        <value>keskinleştirmek</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

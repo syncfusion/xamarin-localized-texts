@@ -45,6 +45,24 @@
      <data name="Add" xml:space="preserve">
         <value>追加する</value>
     </data>
+	<data name="Hue" xml:space="preserve">
+        <value>色相</value>
+    </data>
+    <data name="Saturation" xml:space="preserve">
+        <value>飽和</value>
+    </data>
+	<data name="Contrast" xml:space="preserve">
+        <value>コントラスト</value>
+    </data>
+    <data name="Blur" xml:space="preserve">
+        <value>ぼかし</value>
+    </data>
+	 <data name="Brightness" xml:space="preserve">
+        <value>輝度</value>
+    </data>
+    <data name="Sharpen" xml:space="preserve">
+        <value>シャープ</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
