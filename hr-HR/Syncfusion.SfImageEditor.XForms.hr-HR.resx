@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>Dodati</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>nijansa</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>Zasićenje</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>Kontrast</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>zamagliti</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>svjetlost</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>Izoštriti</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

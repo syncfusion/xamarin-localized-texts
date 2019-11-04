@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>Lisätä</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>värisävy</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>kyllästys</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>kontrasti</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>hämärtää</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>kirkkaus</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>terävöittää</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

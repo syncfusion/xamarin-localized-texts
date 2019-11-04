@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>Legg til</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>Hue</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>metning</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>Kontrast</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>Uklarhet</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>lysstyrke</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>Spisse</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

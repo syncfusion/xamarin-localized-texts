@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>hozzáad</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>Színárnyalat</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>Telítettség</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>Kontraszt</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>Elhomályosít</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>Fényerősség</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>élesít</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

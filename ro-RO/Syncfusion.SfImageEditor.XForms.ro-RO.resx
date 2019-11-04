@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>Adăuga</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>Nuanţă</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>Saturare</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>Contrast</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>Estompa</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>strălucire</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>Ascuţi</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

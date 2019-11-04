@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>Thêm vào</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>Huế</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>Độ bão hòa</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>Tương phản</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>Mơ hồ</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>độ sáng</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>Làm sắc nét</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

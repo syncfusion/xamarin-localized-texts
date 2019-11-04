@@ -45,24 +45,6 @@
      <data name="Add" xml:space="preserve">
         <value>לְהוֹסִיף</value>
     </data>
-	<data name="Hue" xml:space="preserve">
-        <value>גוון</value>
-    </data>
-    <data name="Saturation" xml:space="preserve">
-        <value>רוויה</value>
-    </data>
-	<data name="Contrast" xml:space="preserve">
-        <value>בניגוד</value>
-    </data>
-    <data name="Blur" xml:space="preserve">
-        <value>לטשטש</value>
-    </data>
-	 <data name="Brightness" xml:space="preserve">
-        <value>בהירות</value>
-    </data>
-    <data name="Sharpen" xml:space="preserve">
-        <value>לחדד</value>
-    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
