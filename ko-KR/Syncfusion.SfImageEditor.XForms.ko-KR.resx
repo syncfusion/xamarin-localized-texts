@@ -45,6 +45,24 @@
      <data name="Add" xml:space="preserve">
         <value>더하다</value>
     </data>
+	<data name="Hue" xml:space="preserve">
+        <value>색조</value>
+    </data>
+    <data name="Saturation" xml:space="preserve">
+        <value>포화</value>
+    </data>
+	<data name="Contrast" xml:space="preserve">
+        <value>대조</value>
+    </data>
+    <data name="Blur" xml:space="preserve">
+        <value>흐림</value>
+    </data>
+	 <data name="Brightness" xml:space="preserve">
+        <value>명도</value>
+    </data>
+    <data name="Sharpen" xml:space="preserve">
+        <value>갈다</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

@@ -45,6 +45,24 @@
      <data name="Add" xml:space="preserve">
         <value>Inserisci</value>
     </data>
+	<data name="Hue" xml:space="preserve">
+        <value>colore</value>
+    </data>
+    <data name="Saturation" xml:space="preserve">
+        <value>Saturazione</value>
+    </data>
+	<data name="Contrast" xml:space="preserve">
+        <value>Contrasto</value>
+    </data>
+    <data name="Blur" xml:space="preserve">
+        <value>blur</value>
+    </data>
+	 <data name="Brightness" xml:space="preserve">
+        <value>Luminosità</value>
+    </data>
+    <data name="Sharpen" xml:space="preserve">
+        <value>Affilare</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

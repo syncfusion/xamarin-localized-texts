@@ -45,6 +45,24 @@
      <data name="Add" xml:space="preserve">
         <value>Přidat</value>
     </data>
+	<data name="Hue" xml:space="preserve">
+        <value>Odstín</value>
+    </data>
+    <data name="Saturation" xml:space="preserve">
+        <value>Nasycení</value>
+    </data>
+	<data name="Contrast" xml:space="preserve">
+        <value>Kontrast</value>
+    </data>
+    <data name="Blur" xml:space="preserve">
+        <value>Rozmazat</value>
+    </data>
+	 <data name="Brightness" xml:space="preserve">
+        <value>Jas</value>
+    </data>
+    <data name="Sharpen" xml:space="preserve">
+        <value>Brousit</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
