@@ -60,6 +60,12 @@
 	 <data name="Brightness" xml:space="preserve">
         <value>strălucire</value>
     </data>
+	<data name="Circular" xml:space="preserve">
+        <value>Circular</value>
+    </data>
+    <data name="Ellipse" xml:space="preserve">
+        <value>Elipsă</value>
+    </data>
     <data name="Sharpen" xml:space="preserve">
         <value>Ascuţi</value>
     </data>

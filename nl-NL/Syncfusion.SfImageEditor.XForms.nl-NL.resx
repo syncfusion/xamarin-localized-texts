@@ -63,6 +63,12 @@
     <data name="Sharpen" xml:space="preserve">
         <value>verscherpen</value>
     </data>
+    <data name="Circular" xml:space="preserve">
+        <value>Circulaire</value>
+    </data>
+    <data name="Ellipse" xml:space="preserve">
+        <value>Ovaal</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
