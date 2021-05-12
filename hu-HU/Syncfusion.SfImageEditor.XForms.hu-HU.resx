@@ -63,6 +63,12 @@
     <data name="Sharpen" xml:space="preserve">
         <value>élesít</value>
     </data>
+		 <data name="Circular" xml:space="preserve">
+        <value>Kör alakú</value>
+    </data>
+    <data name="Ellipse" xml:space="preserve">
+        <value>Ellipszis</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

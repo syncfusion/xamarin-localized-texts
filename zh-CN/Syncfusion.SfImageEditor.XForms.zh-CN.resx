@@ -63,6 +63,12 @@
     <data name="Sharpen" xml:space="preserve">
         <value>锐化</value>
     </data>
+    <data name="Circular" xml:space="preserve">
+        <value>圓</value>
+    </data>
+    <data name="Ellipse" xml:space="preserve">
+        <value>橢圓</value>
+    </data>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>

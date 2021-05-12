@@ -39,6 +39,12 @@
     <data name="Square" xml:space="preserve">
         <value>ميدان</value>
     </data>
+     <data name="Circular" xml:space="preserve">
+        <value>دائري</value>
+    </data>
+    <data name="Ellipse" xml:space="preserve">
+        <value>الشكل البيضاوي</value>
+    </data>
     <data name="EnterText" xml:space="preserve">
         <value>أدخل النص</value>
     </data>
