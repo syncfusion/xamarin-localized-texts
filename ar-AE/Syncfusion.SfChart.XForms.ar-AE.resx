@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Close" xml:space="preserve">
-    <value>قريب</value>
+    <valueإغلاق</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>متوسط</value>
+    <value>مرتفع</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>منخفض</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>افتح</value>
+    <value>فتح</value>
   </data>
   <data name="Q" xml:space="preserve">
     <value>Q</value>

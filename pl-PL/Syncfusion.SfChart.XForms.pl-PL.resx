@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Close" xml:space="preserve">
-    <value>Blisko</value>
+    <value>Zamknij</value>
   </data>
   <data name="High" xml:space="preserve">
     <value>Wysoki</value>
   </data>
   <data name="Low" xml:space="preserve">
-    <value>Niska</value>
+    <value>Niski</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>otwarty</value>
+    <value>Otwórz</value>
   </data>
   <data name="Q" xml:space="preserve">
     <value>Q</value>
   </data>
   <data name="Quarter" xml:space="preserve">
-    <value>Jedna czwarta</value>
+    <value>Kwartał</value>
   </data>
   <data name="W" xml:space="preserve">
     <value>W</value>

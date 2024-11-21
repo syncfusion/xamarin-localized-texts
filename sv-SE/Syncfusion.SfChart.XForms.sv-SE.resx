@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Close" xml:space="preserve">
-    <value>Stänga</value>
+    <value>Stäng</value>
   </data>
   <data name="High" xml:space="preserve">
     <value>Hög</value>
@@ -133,7 +133,7 @@
     <value>Q</value>
   </data>
   <data name="Quarter" xml:space="preserve">
-    <value>Fjärdedel</value>
+    <value>Kvartal</value>
   </data>
   <data name="W" xml:space="preserve">
     <value>W</value>

@@ -127,13 +127,13 @@
     <value>Nízký</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>otevřeno</value>
+    <value>Otevřít</value>
   </data>
   <data name="q" xml:space="preserve">
     <value>Q</value>
   </data>
   <data name="Quarter" xml:space="preserve">
-    <value>Čtvrťák</value>
+    <value>Čtvrtletí</value>
   </data>
   <data name="w" xml:space="preserve">
     <value>W</value>

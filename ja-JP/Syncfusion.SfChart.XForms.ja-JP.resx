@@ -127,7 +127,7 @@
     <value>低い</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>開いた</value>
+    <value>開</value>
   </data>
   <data name="Q" xml:space="preserve">
     <value>Q</value>
@@ -139,6 +139,6 @@
     <value>W</value>
   </data>
   <data name="Week" xml:space="preserve">
-    <value>週間</value>
+    <value>週</value>
   </data>
 </root>

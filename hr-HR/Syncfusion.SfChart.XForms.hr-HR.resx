@@ -121,13 +121,13 @@
     <value>Zatvoriti</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>visok</value>
+    <value>Visok</value>
   </data>
   <data name="Low" xml:space="preserve">
-    <value>nizak</value>
+    <value>Nisko</value>
   </data>
   <data name="Open" xml:space="preserve">
-    <value>Otvoren</value>
+    <value>Otvoreno</value>
   </data>
   <data name="q" xml:space="preserve">
     <value>Q</value>
