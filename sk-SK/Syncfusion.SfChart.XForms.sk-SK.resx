@@ -121,7 +121,7 @@
     <value>Zavrieť</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>vysoký</value>
+    <value>Vysoká</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>nízky</value>
@@ -130,7 +130,7 @@
     <value>OTVORENÉ</value>
   </data>
   <data name="Q" xml:space="preserve">
-    <value>W</value>
+    <value>Q</value>
   </data>
   <data name="Quarter" xml:space="preserve">
     <value>štvrťrok</value>

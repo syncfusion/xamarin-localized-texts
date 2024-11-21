@@ -121,10 +121,10 @@
     <value>לִסְגוֹר</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>גָבוֹהַ</value>
+    <value>גבוה</value>
   </data>
   <data name="Low" xml:space="preserve">
-    <value>נָמוּך</value>
+    <value>נמוך</value>
   </data>
   <data name="Open" xml:space="preserve">
     <value>לִפְתוֹחַ</value>
@@ -133,12 +133,12 @@
     <value>ש</value>
   </data>
   <data name="Quarter" xml:space="preserve">
-    <value>רובע</value>
+    <value>רבע</value>
   </data>
   <data name="W" xml:space="preserve">
     <value>W</value>
   </data>
   <data name="Week" xml:space="preserve">
-    <value>שָׁבוּעַ</value>
+    <value>שבוע</value>
   </data>
 </root>

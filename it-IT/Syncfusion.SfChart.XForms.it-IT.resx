@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Close" xml:space="preserve">
-    <value>Vicino</value>
+    <value>Chiudi</value>
   </data>
   <data name="High" xml:space="preserve">
-    <value>alto</value>
+    <value>Alto</value>
   </data>
   <data name="Low" xml:space="preserve">
     <value>Basso</value>
@@ -133,7 +133,7 @@
     <value>Q</value>
   </data>
   <data name="Quarter" xml:space="preserve">
-    <value>Trimestre</value>
+    <value>Quartile</value>
   </data>
   <data name="W" xml:space="preserve">
     <value>W</value>

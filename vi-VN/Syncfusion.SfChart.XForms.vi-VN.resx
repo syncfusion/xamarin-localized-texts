@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Close" xml:space="preserve">
-    <value>Gần</value>
+    <value>Đóng</value>
   </data>
   <data name="High" xml:space="preserve">
     <value>Cao</value>
